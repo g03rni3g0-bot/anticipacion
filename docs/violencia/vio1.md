@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-slug: /category/taylorismo-progresismo-e-ingeniería-social
+slug: /category/violencia-reformismo-y-mitos
 ---
 
 

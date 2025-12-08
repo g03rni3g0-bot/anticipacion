@@ -7,7 +7,7 @@ slug: /category/el-principio-luciferiano-1995-howard-bloom
 
 <hr />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Texto original completo:  <a href="https://www.researchgate.net/publication/265113638_The_Lucifer_Principle_A_Scientific_Expedition_into_the_Forces_of_History" target="_blank" rel="noopener noreferrer">The Lucifer Principle</a> (1995) de <a href="https://en.wikipedia.org/wiki/Howard_Bloom" target="_blank" rel="noopener noreferrer">Howard Bloom</a>
 </p>
 <hr />
@@ -16,7 +16,7 @@ Texto original completo:  <a href="https://www.researchgate.net/publication/2651
 
 Hay un curioso fenómeno en la filosofía conocido como [entelequia](https://es.wikipedia.org/wiki/Entelequia)*. Una entelequia es algo complejo que surge cuando pones un gran numero de elementos más pequeños juntos. Examina una molecula de agua en el vacio y te vas a aburrir por la falta de actividad en el tubo de vacio. Vertí un monton de moleculas de agua dentro de un vaso y el fenomeno creara un anillo de ondas en la superficie del agua. Juntá un monton de vasos de ague en una cuenca y terminara con algo completamente diferente: Un oceano.
 
-<p class="md_footnote_size">* En español entelequia también es usado con el significado de "cosa irreal"</p>
+<p class="md_header_note_size">* En español entelequia también es usado con el significado de "cosa irreal"</p>
 
 Tomá las 26 letras del alfabeto y tendras una colección de pequeñas formas cada una de las cuales evoca sólo uno o dos sonidos especificos. Odrena algunos millones de ellas en  en el orden preciso y obtendras las obras completas de Shakespeare.
 

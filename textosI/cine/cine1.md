@@ -7,7 +7,7 @@ slug: /category/el-cine-y-su-espectador-1984-aumontbergala
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 "El Cine y su Espectador", parte 5 de <a target="_blank" href="https://www.academia.edu/35432193/ESTETICA_DEL_CINE" >Estetica del Cine</a> de Aumont y Bergala.
 </p>
 

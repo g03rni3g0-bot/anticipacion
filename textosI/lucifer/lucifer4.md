@@ -6,7 +6,7 @@ sidebar_position: 4
 
 <hr />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Texto original completo:  <a href="https://www.researchgate.net/publication/265113638_The_Lucifer_Principle_A_Scientific_Expedition_into_the_Forces_of_History" target="_blank" rel="noopener noreferrer">The Lucifer Principle</a> (1995) de <a href="https://en.wikipedia.org/wiki/Howard_Bloom" target="_blank" rel="noopener noreferrer">Howard Bloom</a>
 </p>
 
@@ -22,7 +22,7 @@ La teoría evolutiva actual, conocida técnicamente como [Neo-Darwinismo](https:
 Subyaciendo a la toería de egoismo genético hay otra una supoción aún más básica; la teoría de seleción individual. Cuando se trata de elegir y podar, dice este concepto, la evolución ordena las criaturas de a una. Por tanto el potente impulso en cada micro y macro bestia es el impulso por la supervivencia personal.
 
 
-Pero en el fondo cada uno de nosotros sabe que la supervivencia individual no es su única [raison d'être](https://es.wikipedia.org/wiki/Raison_d%27%C3%AAtre). Ese hecho esta construido tan profundo dentro nuestro que lo encontramos en nuestra estructura físca. Venimos ya de nacimiento con un arsenal de armas de supervivencia. Pero también venimos con dispositivos que niegan nuestra existenci. Son los mecanismos auto destructivos.
+Pero en el fondo cada uno de nosotros sabe que la supervivencia individual no es su única [raison d'être](https://es.wikipedia.org/wiki/Raison_d%27%C3%AAtre). Ese hecho esta construido tan profundo dentro nuestro que lo encontramos en nuestra estructura físca. Venimos ya de nacimiento con un arsenal de armas de supervivencia. Pero también venimos con dispositivos que niegan nuestra existencia. Son los mecanismos auto destructivos.
 
 
 En 1945 los japoneses habían estado combatiendo a los norteamericanos por 6 años. Sabían que no podian perder. Sus dioses los habían hecho un pueblo superior. Habían barrido con China y los Islas del Pacífico en los años 30, conquistado vastos territorios y dominando hordas de pueblos "inferiores". El enemigo que enfrentaban era despreciable, sin la bendición divína de la que gozaba Japon y aquejados de impureza racial.

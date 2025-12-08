@@ -85,8 +85,15 @@ blockquote {
 
 .md_footnote_size {
   text-align: justify;
-  font-size: 80% !important ; 
+  font-size: 80% !important ;
+  margin-top: -1em;
 }
+
+.md_header_note_size {
+  text-align: justify;
+  font-size: 80% !important ;
+}
+
 
 .md_footnote_sizeMargin {
   margin-top: -11px;

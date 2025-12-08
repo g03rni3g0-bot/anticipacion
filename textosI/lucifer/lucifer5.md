@@ -6,7 +6,7 @@ sidebar_position: 5
 
 <hr />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Texto original completo:  <a href="https://www.researchgate.net/publication/265113638_The_Lucifer_Principle_A_Scientific_Expedition_into_the_Forces_of_History" target="_blank" rel="noopener noreferrer">The Lucifer Principle</a> (1995) de <a href="https://en.wikipedia.org/wiki/Howard_Bloom" target="_blank" rel="noopener noreferrer">Howard Bloom</a>
 </p>
 

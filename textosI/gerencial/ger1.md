@@ -7,7 +7,7 @@ slug: /category/la-revolución-gerencial-1941--james-burnham
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n3/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Revolution</a> (1941) de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> (1905-1987) <br />
 </p>
 

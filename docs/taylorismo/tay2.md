@@ -24,8 +24,19 @@ Aquí parece resonar a lo lejos la declaración del viejo <a href="https://es.wi
 Ya por entonces muchos entrevieron las nuevas reglas que se imponian y el rumbo que esto marcaba. Uno de ellos fue el pionero de la sociológia, Max Weber (ver racionalización)
 
 
-## Epistemologia Vs Reduccionismo
+## Antony Sutton y la "Transferencia Tecnológica"
 
+
+
+## La "Jurisprudencia Sociologica"
+
+ La "Jurisprudencia Sociologica", Jevons
+
+
+Aca se explica como la "jurisprudencia sociológica" fue impulsada por el mismo tipo que impulso el Taylorismo: Brandeis y q hay ya del vamos una contradiccion en ese mismo punto bla bla bla
+
+
+Uno de los punto fuertes del argumento anti neo liberal es que por la propia inercia del desbalanceo
 
 
 

@@ -7,7 +7,7 @@ slug: /category/paz-y-guerra-1962----raymond-aron
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Traducción paracial de "Paix et Guerre entre les Nations" (1962) de <a href="https://es.wikipedia.org/wiki/Raymond_Aron" target="_blank" rel="noopener noreferrer">Raymond Aron</a> (1905-1983) <br />
 Traducción completa al Inglés (PDF, epub, etc): <a href="https://archive.org/details/RaymondAronPeaceAndWar" target="_blank" rel="noopener noreferrer">Peace and War</a> <br /> 
 Traducción completa al Español <a href="http://www.fsoc.uba.ar/catalogo/" target="_blank" rel="noopener noreferrer">Biblioteca Ciencias Sociales UBA</a>: ALVEAR 327.1 ARO v.1

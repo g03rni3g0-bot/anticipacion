@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Las Ideologias Gerenciales.
+# Las Ideologias Gerenciales
 
  <hr style={{  marginTop: '1em' }} />
 

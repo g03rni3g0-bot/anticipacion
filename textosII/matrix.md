@@ -98,7 +98,7 @@ Cuando las mujeres se congregan en grupos la dinamica es muy diferente. Pese al 
 Mientras quien comenta esta intentando alabar las ventajas de la dinamica de grupo femenina, en las cuales el individuo se sumerge dentro del grupo en vez de sobresalir (y por tanto atrayendo atención y competencia no deseada) como lo haría un hombre en un grupo de hombres.
 
 
-Esto no significa que no haya mujeres lideres, para nada, de hecho todo el proposito de la Matriz social Femenina es dominar el grupo sin dar la apariencia de que se lo esta dominando. El enfasis no esta en la gentil competencia con palabras o demostraciones de capacidad personal. Es más un tema de establecer posición social atravez de consenso y alianzas y despues defenderlo. De mientras, el rol del grupo es asegurarse de que ningún líder gane suficiente poder como para dominar el consenso.
+Esto no significa que no haya mujeres lideres, para nada, de hecho todo el proposito de la Matriz social Femenina es dominar el grupo sin dar la apariencia de que se lo esta dominando. El enfasis no esta en la gentil competencia con palabras o demostraciones de capacidad personal. Es más un tema de establecer posición social atravez de concenso y alianzas y despues defenderlo. De mientras, el rol del grupo es asegurarse de que ningún líder gane suficiente poder como para dominar el concenso.
 
 Los grupos puramente femeninos han sido tradicionalmente percibidos como más democraticos...    perdo dicha observación pasa por alto algunas sutilezas de la dinamica de grupo femenina.
 
@@ -110,7 +110,7 @@ De acuerdo con este modelo, las mujeres también construyen [jerarquía de domin
 Es un signo de que pese a una estabilidad general los cambios de rango y posición ocurren entre los individuos de menor rango en los grupos de sólo hombres mientras que en los grupos de sólo mujeres tales cambios son mucho más frecuentes entre las mujeres de rango mediano y alto (Savin-Williams, 1979), demostrando las constantemente cambiantes alianzas para reposicionar a un individuo o grupo en particular.
 
 
-Mientras que los hombres se decidiran por un lider y luego le conferiran respeto y autoridad de buena fe hasta que demuestre su incompetencia, una vez que las mujeres se deciden por una lider empiezan a buscar formas de derrivarla, socavar su autoridad y mitigar su poder...  sin aparentar que lo estan haciendo. La competencia femenina es sutil e indirecta, un tema de desviar el consenso del grupo fuera de los deseos del lider hacia los tuyos.
+Mientras que los hombres se decidiran por un lider y luego le conferiran respeto y autoridad de buena fe hasta que demuestre su incompetencia, una vez que las mujeres se deciden por una lider empiezan a buscar formas de derrivarla, socavar su autoridad y mitigar su poder...  sin aparentar que lo estan haciendo. La competencia femenina es sutil e indirecta, un tema de desviar el concenso del grupo fuera de los deseos del lider hacia los tuyos.
 
 
 Y si estan pensando que eso es una forma muy pobre de dirigir una empresa o una organización sin fines de lucro o de cualquier otro tipo que requiera terminar algo, bueno, no se los puedo negar..
@@ -128,7 +128,7 @@ Es por eso que las mujeres no construyeron las piramides. Por supuesto en su def
 Las jerarquias sociales femeninas, al igual que las masculinas, dependen de la lealtad pero dicha lealtad raramente es hacia el lider alfa directamente. La mujere, en cambio, forman pequeños grupos mucho más facilmente, aliandose entre ellas para impulsar su posición social.
 
 
-Las mujeres tienen una facilidad para las conexiones sociales rápidas, basada en sus habilidades de comunicación superiores, que permite que alianzas rápidas se formen y se deshagan. Una mujer a menudo encontrará una o dos aliadas sociales dentro de un grupo y se quedará con ellas, utilizando el poder de dicha alianza para atraer aliadas ventajosas. En ese sentido, el consenso se vuelve mucho más importante que la autoridad y el respeto.
+Las mujeres tienen una facilidad para las conexiones sociales rápidas, basada en sus habilidades de comunicación superiores, que permite que alianzas rápidas se formen y se deshagan. Una mujer a menudo encontrará una o dos aliadas sociales dentro de un grupo y se quedará con ellas, utilizando el poder de dicha alianza para atraer aliadas ventajosas. En ese sentido, el concenso se vuelve mucho más importante que la autoridad y el respeto.
 
 
 La "sabiduria conversacional" dice que las mujeres son mucho menos propensas que los hombres a formar jerarquias sociales. Despues de todo, las mujeres son mucho menos propensas a preferir un sistema de recompensas de distribución equitativas mediante el cual cada miembro del grupo recibe una parte igual sin importar el esfuerzo hecho o las resultados obtenidos ([Dobbins, 1986](https://www.jstor.org/stable/258335?origin=crossref)).
@@ -160,7 +160,7 @@ Es interesante apuntar que en un grupo de sólo mujeres estas se interrumpen ent
 Adicionalmente, dado que la percepción de las miembros un grupito femenino por las miembros de otro grupito femenino influencia profundamente la formación de la jeraquia del grupo de sólo mujeres más general, podemos concluir que la prcepcion de pares sirve para validar externamente "victorias" conversacionales en interacciones interruptivas que identifican con presición las mujeres dominantes dentro de un grupo.
 
 
-En otras palabras, una mujer no puede ser la lider de otras mujeres a menos que el consenso haya validado su dominancia...   ella depende del consenso para tener autoridad, se gana esa autoridad "juntando" apoyo verbal y validación de otras mujeres.
+En otras palabras, una mujer no puede ser la lider de otras mujeres a menos que el concenso haya validado su dominancia...   ella depende del concenso para tener autoridad, se gana esa autoridad "juntando" apoyo verbal y validación de otras mujeres.
 
 
 Las competencias de interrupción en grupos de sólo mujeres esta posiblemente relacionado con ser precibidas como que estan comprometidas con la discusión del grupo..  y entre mujeres, "estar involucradas" en el grupo es extremadamente importante, mucho más importante que "lograr" algo.
@@ -188,14 +188,14 @@ El contexto, como ves, lo es todo para las mujeres.
 Los hombres por otro lado, ven el exceso de involucramiento en el grupo o en la discusión o el exceso de oratoria en desmedro de la brevedad, como un intento de raptar la autoridad social existente. A menos que la autoridad del lider haya caido en un claro cuestionamiento común, eso es visto generalmente con desden y desaprovación. Un tipo que habla mucho casi siempre termina perdiendo status dentro de los grupos masculinos.
 
 
-En los grupos femeninos en cambio esa actitud resultaria en una promoción. Mientras que los hombres utilizan el orden y la competencia para establecer dominancia, las mujeres utilizan el consenso y la participación, y eso se determina mayormente en base a quien conversa más, más fuerte, más sordamente y a la gente correcta.
+En los grupos femeninos en cambio esa actitud resultaria en una promoción. Mientras que los hombres utilizan el orden y la competencia para establecer dominancia, las mujeres utilizan el concenso y la participación, y eso se determina mayormente en base a quien conversa más, más fuerte, más sordamente y a la gente correcta.
 
 
 
-Si los hombres forman estructuras jerarquicas con facilidad y rapidez, los grupos de sólo mujeres necesitan más tiempo para formar grupos altamente estructurados. Esto se debe en gran parte a la necesidad de desarrollar consenso y "pelar" las capas de oscuridad en las sutiles discusiones para revelar las verdaderas negociadoras de poder en el grupo femenino..  hasta que ellas mismas son desafiadas por miembros de los rangos inferiores...
+Si los hombres forman estructuras jerarquicas con facilidad y rapidez, los grupos de sólo mujeres necesitan más tiempo para formar grupos altamente estructurados. Esto se debe en gran parte a la necesidad de desarrollar concenso y "pelar" las capas de oscuridad en las sutiles discusiones para revelar las verdaderas negociadoras de poder en el grupo femenino..  hasta que ellas mismas son desafiadas por miembros de los rangos inferiores...
 
 
-Dado que [en el momento en que un cangrejo intenta salirse del balde](https://es.wikipedia.org/wiki/Mentalidad_de_cangrejo) el consenso busca balancear eso "bajandole los humos" y bajandole el status con pretextos. Mientras que los hombres celebran y recompensan el logro individual como una consecuencia natural de la competencia exitosa, las mujeres ven esos logros singulares como una amenaza al consenso que se supone que debe sostenerlas a todas. 
+Dado que [en el momento en que un cangrejo intenta salirse del balde](https://es.wikipedia.org/wiki/Mentalidad_de_cangrejo) el concenso busca balancear eso "bajandole los humos" y bajandole el status con pretextos. Mientras que los hombres celebran y recompensan el logro individual como una consecuencia natural de la competencia exitosa, las mujeres ven esos logros singulares como una amenaza al concenso que se supone que debe sostenerlas a todas. 
 
 
 
@@ -203,21 +203,21 @@ De ahí la acida respuesta que las mujeres a menudo dan a la noticia de los lóg
 
 
 
-Como podes ver la Matriz Social Femenina funciona aen base a consenso, vive y muere en consenso. Y dado que el consenso es la falta de liderazgo, cada vez que un liderazgo real tiene chances de emerger en el grupo este amenaza el consenso y por tanto debe ser castigado por el resto del grupo.
+Como podes ver la Matriz Social Femenina funciona en base a concenso, vive y muere en concenso. Y dado que el concenso es la falta de liderazgo, cada vez que un liderazgo real tiene chances de emerger en el grupo este amenaza el concenso y por tanto debe ser castigado por el resto del grupo.
 
 
-Este consenso se forma compartiendo opiniones e intercambiando información, reuniendo incesantemente datos de "quien es quien" en los niveles globales, nacionales, provinciales y (sobre todo) locales. Atravez de este constante intercambio de información y actualizaciones situacionales cada mujer puede establecer en su mente donde encaja dentro de la Matriz. 
+Este concenso se forma compartiendo opiniones e intercambiando información, reuniendo incesantemente datos de "quien es quien" en los niveles globales, nacionales, provinciales y (sobre todo) locales. Atravez de este constante intercambio de información y actualizaciones situacionales cada mujer puede establecer en su mente donde encaja dentro de la Matriz. 
 
 
 
-Pero una vez que establece esto, ella acepta la validación de pares dentro de su propio grupo auto-definido -su Matriz local- y comienza un plan para mejorar su status. Al mismo tiempo, al aceptar su lugar en la Matriz ella tácitamente acepta mantener el disciplinamiento social que el consenso requiere de ella.
+Pero una vez que establece esto, ella acepta la validación de pares dentro de su propio grupo auto-definido -su Matriz local- y comienza un plan para mejorar su status. Al mismo tiempo, al aceptar su lugar en la Matriz ella tácitamente acepta mantener el disciplinamiento social que el concenso requiere de ella.
 
 
 
 Ahora bien, esto puede variar bastante dependiendo de la naturaleza de la Matriz local. 
 
 
-Si las chicas en cuestion son jovenes, lindas, con una libido activa y obsesionadas con cuanto pueden obtener a cambio de su apariencia y sexualidad entonces el consenso requiere que aquellas dentro de la Matriz local salgan a "trolear" ([slut out](https://es.quora.com/Qu%C3%A9-significa-el-slang-americano-slut-me-out) en el original) con cuantos tipos puedan...   y entonces la piba que es aún virgen pierde status, localmente. La misma chica gana status cunado la Matriz local emfatiza una sexualidad recatada, resaervandola para el matrimonio, y da un gran valor a la virginidad.
+Si las chicas en cuestion son jovenes, lindas, con una libido activa y obsesionadas con cuanto pueden obtener a cambio de su apariencia y sexualidad entonces el concenso requiere que aquellas dentro de la Matriz local salgan a "trolear" ([slut out](https://es.quora.com/Qu%C3%A9-significa-el-slang-americano-slut-me-out) en el original) con cuantos tipos puedan...   y entonces la piba que es aún virgen pierde status, localmente. La misma chica gana status cunado la Matriz local emfatiza una sexualidad recatada, resaervandola para el matrimonio, y da un gran valor a la virginidad.
 
 
 Entonces como sabe una mujer en que Matriz local está? De nuevo, es una cuestión de contexto.
@@ -236,7 +236,7 @@ Cuando un grupo de mujeres extrañas se encuentra pasan por el mismo tipo de pro
 
 
 
-En otras palabras, antes de que las mujeres puedan siquiera establecer un concenso en la Matriz deben primero evaluar las otras mujeres en el contexto social primero,  y luego comenzar a hacer evaluaciones personales que lleven a una decisión respecto a si deben aliarse socialmente con ellas o no.
+En otras palabras, antes de que las mujeres puedan siquiera establecer un    en la Matriz deben primero evaluar las otras mujeres en el contexto social primero,  y luego comenzar a hacer evaluaciones personales que lleven a una decisión respecto a si deben aliarse socialmente con ellas o no.
 
 
 
@@ -268,7 +268,7 @@ A menudo potenciales rivales a un nivel particular de una mujer son reconocidas 
 
 
 
-Si la unanimidad no se puede alcanzar, entonces las lideres de facto de la Matriz empiezan a presionar para conseguir consenso aplicando disciplina dentro de la Matriz hasta que el consenso es alcanzado. Eso puede significar persuación gentil, apalancamiento social, bullying personal, amenazas de verguenza social o perdida de status y ostracismo directo en algunos casos. 
+Si la unanimidad no se puede alcanzar, entonces las lideres de facto de la Matriz empiezan a presionar para conseguir concenso aplicando disciplina dentro de la Matriz hasta que el concenso es alcanzado. Eso puede significar persuación gentil, apalancamiento social, bullying personal, amenazas de verguenza social o perdida de status y ostracismo directo en algunos casos. 
 
 
 

@@ -6,7 +6,7 @@ sidebar_position: 10
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943) de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> (1905-1987) <br />
 </p>
 

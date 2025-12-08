@@ -7,7 +7,7 @@ sidebar_position: 3
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Esta seccion transcribe partes de <a target="_blank" href="https://www.academia.edu/35432193/ESTETICA_DEL_CINE" >Estetica del Cine</a> de Aumont y Bergala que no pertenecen a su parte 5 ("El Cine y su Espectador") como las 2 anteriores "El Espectador de Cine" e "Identificacion y Estructura" pero son relavantes a la materia <span class="lnk"><a href="/">de esta guía</a></span>.   
 </p>
 

@@ -12,6 +12,22 @@ slug: /category/taylorismo-progresismo-e-ingeniería-social
 ><a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> <br />
 >[Testimony of Frederick W. Taylor at the House of Representatives](https://books.google.com.ar/books?id=6y7bAAAAMAAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) (1912)
 
+<br />
+
+>"La división detallada del trabajo implica analizar un proceso de producción y descomponerlo en una 
+multitud de tareas realizadas por diferentes trabajadores. De esta manera, un proceso de trabajo 
+basado en la artesanía, que alguna vez fue controlado por los propios trabajadores, se fragmenta. 
+Luego, <span class="lnk">[los gerentes](/textosI/gerencial/ger3)</span> reúnen las piezas para crear un proceso que está bajo su control. La ventaja 
+financiera de esta estrategia es que se hace posible contratar menos trabajadores bien remunerados."
+
+
+
+
+
+
+
+>[Hans Pruijt](https://scholar.google.nl/citations?user=w1Vk0X4AAAAJ&hl=en), [The Persistance of Taylorism](https://repub.eur.nl/pub/93588/Fight.PDF#page=12) (1996)
+
 
 <hr />
 
@@ -43,12 +59,12 @@ Y esto último es de vital importancia dado que el artesano era un *trabajador c
 
 
 
-He aquí la paradoja de que algo que lleva en sí la palabra "cientifico" (*<span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span>* o *"Gerenciamiento Científico"*) sea una maquina de convertir conocimiento organico o concurrente (el del artesano calificado al que se le roba su conocimiento) en conocimiento extremadamente fragmentario y divergente (el de los obreros no calificados que ejecutan una tarea fragmentaria del producto completo).
+He aquí la paradoja de que algo que lleva en sí la palabra "cientifico" (*<span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span>* o *"Gerenciamiento Científico"*) sea una maquina de convertir conocimiento orgánico y concurrente (el del artesano calificado al que se le roba su conocimiento) en conocimiento extremadamente fragmentario y divergente (el de los obreros no calificados que ejecutan una tarea fragmentaria del producto completo).
 
 
 
 
-Efectivamente se ha producido en los últimos años un interes en las teorías que explican la creciente baja del *cociente intelectual* promedio (conocida tambien como el efecto *"[Idiocracy se volvio un documental](https://medium.com/bouncin-and-behavin-blogs/proof-that-the-movie-idiocracy-is-becoming-a-documentary-602a65737535)"*) tales como [Teoría de la Estupidez de Bonhoeffer](https://es.wikipedia.org/wiki/Idiocracia), el [Efecto Dunning-Kruger](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger) o [El Ascenso de los Midwits](https://www.youtube.com/watch?v=9agM261CSJU) y en libros como *[The Bell Curve](https://archive.org/details/TheBellCurve_201603/page/n1)* (1994) de [Herrnstein](https://es.wikipedia.org/wiki/Richard_J._Herrnstein) y [Murray](https://es.wikipedia.org/wiki/Charles_Murray), *[The Dumbest Generation](https://archive.org/details/TheDumbestGeneration)* (2008) de [Mark Bauerlein](https://es.wikipedia.org/wiki/Mark_Bauerlein) o *[The Shallows](https://archive.org/details/TheShallowsWhatTheInternetIsDoingToOurBrains)* (2010) de [Nicholas Carr](https://es.wikipedia.org/wiki/Nicholas_Carr).
+Se ha producido en los últimos años un interes en las teorías que explican la creciente baja del *cociente intelectual* promedio (conocida tambien como el efecto *"[Idiocracy se volvio un documental](https://medium.com/bouncin-and-behavin-blogs/proof-that-the-movie-idiocracy-is-becoming-a-documentary-602a65737535)"*) tales como [Teoría de la Estupidez de Bonhoeffer](https://es.wikipedia.org/wiki/Idiocracia), el [Efecto Dunning-Kruger](https://es.wikipedia.org/wiki/Efecto_Dunning-Kruger) o [El Ascenso de los Midwits](https://www.youtube.com/watch?v=9agM261CSJU) y en libros como *[The Bell Curve](https://archive.org/details/TheBellCurve_201603/page/n1)* (1994) de [Herrnstein](https://es.wikipedia.org/wiki/Richard_J._Herrnstein) y [Murray](https://es.wikipedia.org/wiki/Charles_Murray), *[The Dumbest Generation](https://archive.org/details/TheDumbestGeneration)* (2008) de [Mark Bauerlein](https://es.wikipedia.org/wiki/Mark_Bauerlein) o *[The Shallows](https://archive.org/details/TheShallowsWhatTheInternetIsDoingToOurBrains)* (2010) de [Nicholas Carr](https://es.wikipedia.org/wiki/Nicholas_Carr).
 
 
 
@@ -76,7 +92,7 @@ A quien esto no se le paso por alto fue a <a href="https://es.wikipedia.org/wiki
 
 Y ese trueque tuvo su origen la manía que se desato a comienzos del siglo XX en torno al <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, <a href="https://es.wikipedia.org/wiki/Fordismo" target="_blank" rel="noopener noreferrer">Fordismo</a>, <a href="https://en.wikipedia.org/wiki/Time_and_motion_study" target="_blank" rel="noopener noreferrer">Time and Motion Study</a> y otros nuevos prodigios de la eficiencia.
 
-Sin embargo la generalización de tales prácticas no tuvo que ver con el nacionalismo tradicional del cual el lector Walter Greene expresa su orgullo sino en una creciente tendencia reformista encabezada por el [American Progressive Movement](https://es.wikipedia.org/wiki/Era_progresista), de obvia tendencia progresista.
+Sin embargo la generalización de tales prácticas no tuvo que ver con el nacionalismo tradicional del cual el lector Walter Greene expresa su orgullo sino en una creciente tendencia reformista encabezada por el [American Progressive Movement](https://es.wikipedia.org/wiki/Era_progresista), precursor del progresismo moderno.
 
 Retrocedamos una vez más a esa era para aclarar algunos prejuicios.
 
@@ -100,7 +116,7 @@ Retrocedamos una vez más a esa era para aclarar algunos prejuicios.
 
 
 
->[Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin), [El Sistema De Taylor](https://www.marxists.org/archive/lenin/works/1914/mar/13.htm) (1914)
+>[Vladimir Lenin](https://en.wikipedia.org/wiki/Vladimir_Lenin), [El Sistema Taylor](https://www.marxists.org/archive/lenin/works/1914/mar/13.htm) (1914)
 
 <hr />
 
@@ -109,16 +125,16 @@ Retrocedamos una vez más a esa era para aclarar algunos prejuicios.
 
 Sí bien simpre se ha culpado a <a href="https://es.wikipedia.org/wiki/Frederick_Winslow_Taylor" target="_blank" rel="noopener noreferrer">Frederick W. Taylor</a> tanto de los efectos negativos de la generalización extrema de la división del trabajo como de haber bastardeado la noción de ciencia con su <span class="lnk">[Scientific Management](/textosi/t&c/t&c3/#scientific-management-acabar-con-el-oficio-para-acabar-con-el-control-obrero-de-los-tiempos-de-producción)</span>, la verdad es que a él mismo tal denominación le resultaba pretenciosa e injustificada*, si bien decidió incluir el término en su obra de 1911 *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* para aprovechar la publicidad de un caso en particular que pasaremos a detallar. 
 
-<p class="md_footnote_size">Por ejemplo su obra de 1903 *<a href="https://archive.org/details/shopmanagement01tayl/mode/2up" target="_blank" rel="noopener noreferrer">Shop Management</a>* no incluía dicho termino</p>
+<p class="md_footnote_size">* Por ejemplo su obra de 1903 *<a href="https://archive.org/details/shopmanagement01tayl/mode/2up" target="_blank" rel="noopener noreferrer">Shop Management</a>* no incluía dicho termino.</p>
 
-En *[Education and the Cult of Efficiency](https://faculty.washington.edu/rsoder/EDUC305/callahancultefficiency.pdf) <span class="pdf">[PDF]</span>* (1962) Raymond Callahan nos explica que: 
+En *[Education and the Cult of Efficiency](https://faculty.washington.edu/rsoder/EDUC305/callahancultefficiency.pdf) <span class="pdf">[PDF]</span>* (1962) Raymond Callahan nos explica: 
 
 >"La ocasión del surgimiento del nuevo sistema se dio en la audiencia ante la Comisión Interestatal de Comercio en septiembre, octubre y noviembre de 1910. Los Ferrocarriles del Noreste habían solicitado a la Comisión un aumento de las tarifas de transporte de mercancías para compensar los mayores salarios concedidos a los trabajadores ferroviarios en la primavera de 1910. Los comerciantes de la zona se opusieron a esta medida porque aumentaría sus costes de transporte. Cada parte estaba representada por equipos de abogados.
 
 >La asociación comercial, liderada por el abogado [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis), argumentó que los ferrocarriles se gestionaban de forma ineficiente y que era posible que obtuvieran mayores beneficios sin aumentar las tarifas. En un momento crucial de la audiencia, Brandeis presentó como testigos a varios ingenieros y directivos industriales que declararon que gracias a la introducción del «Scientific Management»,los ferrocarriles deberían ser capaces de aumentar los salarios y reducir los costes. Algunos de estos hombres afirmaron que ellos habían reducido los costes mientras aumentaban los salarios de 25 a 100 por ciento"
 
 
-La amplia cobertura nacional que tuvieron estas audiencias popularizaron el nombre de Taylor y sus métodos, aunque como bien documenta el libro de Callahan, *"al mismo Taylor la súbita promoción le resultaba exagerada"*, *"el termino Scientific Managemente le sonaba pretencioso"* y que *"sus conotaciones les parecerian academicas a la mayor parte del público"* no obstante esto decidio utilizar el concepto en el titulo de su seminal libro *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* el año siguiente para capitalizar la popularidad del nombre.
+La amplia cobertura nacional que tuvieron estas audiencias popularizaron el nombre de Taylor y sus métodos, aunque como bien documenta el libro de Callahan, *"al mismo Taylor la súbita promoción le resultaba exagerada"*, *"el termino Scientific Managemente le sonaba pretencioso"* y lamentaba que *"sus conotaciones les parecerian academicas a la mayor parte del público"* no obstante esto decidio utilizar el concepto en el titulo de su seminal libro *<a href="https://archive.org/details/principlesofscie00taylrich/mode/2up" target="_blank" rel="noopener noreferrer">Principles of Scientific Management</a>* el año siguiente para capitalizar la popularidad del nombre.
 
 
 Pero el termino fue realmente acuñado y popularizado durante las audiencias de 1910 por nada menos que [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) quien poco tiempo despues se convertiria en el asesor principal del presidente [Woodrow Wilson](https://en.wikipedia.org/wiki/Woodrow_Wilson) y algunas decadas despues en Juez de la Suprema Corte de Justicia de los Estados Unidos. 
@@ -146,17 +162,7 @@ Recordemos la cita que abre esta sección:
 
 <br />
 
-<br />
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
 
 
 
@@ -186,22 +192,7 @@ Mientras que muchos supondran, acertadamente, que <em><a href="/textosI/maquiave
 
 RELACION CON EL INCIPIENTE REFORMISMO
 
-## Taylorismo Literal Vs Taylorismo Post-Industrial
-
->"La división detallada del trabajo implica analizar un proceso de producción y descomponerlo en una 
-multitud de tareas realizadas por diferentes trabajadores. De esta manera, un proceso de trabajo 
-basado en la artesanía, que alguna vez fue controlado por los propios trabajadores, se fragmenta. 
-Luego, los gerentes reúnen las piezas para crear un proceso que está bajo su control. La ventaja 
-financiera de esta estrategia es que se hace posible contratar menos trabajadores bien remunerados."
-
-
-
->[Hans Pruijt](https://scholar.google.nl/citations?user=w1Vk0X4AAAAJ&hl=en), [The Persistance of Taylorism](https://repub.eur.nl/pub/93588/Fight.PDF#page=12) (1996)
-
-<hr />
-
-
-## Keynesianismo: La Economia Midwit
+## ¿Artesanos o Obreros?: Un Error Persistente
 
 
 >"Estos cambios [de la productividad] son los que interesan al pobre,
@@ -220,17 +211,67 @@ siguiente"
 <hr />
 
 
+Hay una linea q puede ser dibujada uste sabe cual es solo tiene q revisar el material disponible con un poco mas de tienmopo
+
+
 blab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
 
 la etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
 
 
-## Ciencia Vs Racionalización
+## Keynesianismo: La Economía Midwit
+
+>"La racionalización de la actividad comunitaria de ninguna forma tiene por 
+consecuencia una universalización del conocimiento de las condiciones y las 
+relaciones de esa misma actividad, sino que más a menudo conduce al efecto contrario. 
+El «salvaje» sabe infinitamente más de las condiciones económicas y sociales de su propia existencia que el hombre «civilizado» de las suyas."
+
+>[Max Weber](https://es.wikipedia.org/wiki/max_weber), Ensayos Sobre La Teoría De La Ciencia
+
+<br />
 
 
-b bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
+>"Aca va la historia de Socreate y lasabas"
 
-la etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla etc et
+>[Historia Tradicional](https://es.wikipedia.org/wiki/max_weber), Ensayos Sobre La Teoría De La Ciencia
+
+
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## La Irreversibilidad De La Racionalización y El Mito Del Neo-Liberalismo
+
+
+
+
+
+
 
 
 
@@ -258,13 +299,12 @@ la etc etblab bla bla etc etblab bla bla etc etblab bla bla etc etblab bla bla e
 >Las debilidades se asentan y si no estan compensadas por una circulación del dia a dia y prosigen así por el tiempo suficiente, son corregidas agudamente por una revolución social, es decir, por la intromisión dentro de la élite de grandes numeros de individuos hasta entonces privados por los obstaculos de encontrar su nivel social natural."
 
 
-Sin embargo debe tenerse en cuenta que la mayor parte de los conceptos desarrollados allí por <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> se basan en evidencia historica previa a la era post-industrial*, al actual *Ethos* marcadame anti-meritocratico y por ende pro-autocrático. La antimeritocracia por otro lado aparece como inevitable en un mundo donde las grandes corporaciones y su infinito poder subvierten desde el vamos las posibilidades de desarrollo del individuo, fenomeno que funciona como justificación ideológica de la extorción reformista que dearrollaremos en el cápitulo XXX.
-
-<p class="md_footnote_size">* Estos prejuicios fueron tan persistentes que aún en 1995 con la evidencia en mano, <em><span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span></em> se refiere a ese mismo fenomeno como una aparente contradición ideológica.</p>
+Sin embargo debe tenerse en cuenta que la mayor parte de los conceptos desarrollados allí por <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a> se basan en evidencia historica previa a la era post-industrial, al actual *Ethos* marcadame anti-meritocratico y por ende <span class="lnk">[pro-autocrático](/textosI/maquiavelistas/maq4)</span>. La antimeritocracia por otro lado aparece como inevitable en un mundo donde las grandes corporaciones y su infinito poder subvierten desde el vamos las posibilidades de desarrollo del individuo, fenomeno que funciona como justificación ideológica de la extorción reformista que dearrollaremos en el cápitulo XXX.
 
 
 
-El tipo de Revolución que Pareto describe ya no es posible tal como ocurria en el pasado. Sin embargo podemos ver que la percepción subjetiva de quienes fueron parte de dicho tipo de procesos revolucionarios es casi analoga a lo que se conoce como <a href="https://es.wikipedia.org/wiki/Milenarismo" target="_blank" rel="noopener noreferrer">milenialismo</a>.
+
+El tipo de Revolución que Pareto describe ya no es posible tal como ocurria en el pasado. Sin embargo podemos ver que la percepción subjetiva de quienes fueron parte de dicho tipo de procesos revolucionarios es casi analoga a lo que se conoce como <a href="https://es.wikipedia.org/wiki/Milenarismo" target="_blank" rel="noopener noreferrer">milenialismo</a>. 
 
 definicion milenialismo por Sorin
 
@@ -278,6 +318,8 @@ q ya no sea posible, traicionando su propia critica del Milenialismo
 como cierre se retoma el ejempo de pareto al comienzo y se sugieren nuevos y diferentes subtipos
 
 citaa Ford: Demasiado grande
+
+Cita : Sobreproducción de Elite https://x.com/robkhenderson/status/1948848566551937108
 
 
 

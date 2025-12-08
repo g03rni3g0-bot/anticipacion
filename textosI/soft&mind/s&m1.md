@@ -101,7 +101,10 @@ Y son estas características las que delatan su naturaleza mitologica:
 
 Pese a que son descriptos en términos científicos, estas poderosas fuerzas y procesos son percibidos como entidades mitologicas y sobrenaturales. Solo logran explicar la evolución social no explicandose a sí mismas, así que al final, estas teorías -<a href="https://es.wikipedia.org/wiki/Pseudociencia" target="_blank" rel="noopener noreferrer">pseudociencias</a> en realidad- no son diferentes de las creencias religiosas del pasado: 
 
-<blockquote><p>«En estos tiempos se ha desarrollado una mitologia pseudo-sociológica que, disfrazada de conceptos científicos, se ha convertido en un nuevo tipo de <a href="https://es.wikipedia.org/wiki/Animismo" target="_blank" rel="noopener noreferrer">animismo</a>, ciertamente una religión más primitíva e ingenua que las tradicional Fé europea que busca remplazar».</p></blockquote>
+<blockquote><p>«En estos tiempos se ha desarrollado una mitologia pseudo-sociológica que, disfrazada de conceptos científicos, se ha convertido en un nuevo tipo de <span class="lnk">[animismo](/textosII/mumford#el-obstáculo-del-animismo)</span>, ciertamente una religión más primitíva e ingenua que las tradicional Fé europea que busca remplazar».</p></blockquote>
+
+
+
 
 <p><a href="https://es.wikipedia.org/wiki/Mircea_Eliade#Pensamiento" target="_blank" rel="noopener noreferrer">Mircea Eliade</a> compara los mitos políticos modernos:</p>
 

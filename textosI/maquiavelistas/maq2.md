@@ -6,7 +6,7 @@ sidebar_position: 2
 
  <hr style={{  marginTop: '1em' }} />
 
-<p class="md_footnote_size">
+<p class="md_header_note_size">
 Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943) de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> (1905-1987) <br />
 </p>
 
@@ -14,7 +14,7 @@ Traducción paracial de <a href="https://archive.org/details/in.ernet.dli.2015.2
 
  
 
-Es caracteristico del análisis político maquiavelico ser «*anti-formal*» usando «*formal*» en el sentido en el que lo he definido en las secciones dedicadas al <i>De Monarchia</i> de <a href="https://es.wikipedia.org/wiki/Dante_Alighieri" target="_blank" rel="noopener noreferrer">Dante</a>  (1265-1321) (ver *<a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n9/mode/2up" target="_blank" rel="noopener noreferrer">The Formal Meaning of De Monarchia</a>* y *<a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n15/mode/2up">The Real Meaning of De Monarchia</a>*). Es decir, que los maquiavelicos, en su investigación del comportamiento político, no aceptan «al pie de la letra» lo que los hombres dicen, creen o escriben. Ya sea el habla, la carta o libro de un inviduo, o un documento público tal como una constitución o un grupo de leyes o una plataforma política, los maquiavelicos lo tratan sólo como un hecho más dentro del ámplio grupo general de hechos sociales, e interpretan su sentido siempre en relación a estos otros hechos.
+Es caracteristico del análisis político maquiavelico ser «*anti-formal*» usando «*formal*» en el sentido en el que lo he definido en las secciones dedicadas al <i>De Monarchia</i> de <a href="https://es.wikipedia.org/wiki/Dante_Alighieri" target="_blank" rel="noopener noreferrer">Dante</a>  (1265-1321) (ver *<a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n9/mode/2up" target="_blank" rel="noopener noreferrer">The Formal Meaning of De Monarchia</a>* y *<a href="https://archive.org/details/in.ernet.dli.2015.247666/page/n15/mode/2up" target="_blank" rel="noopener noreferrer">The Real Meaning of De Monarchia</a>*). Es decir, que los maquiavelicos, en su investigación del comportamiento político, no aceptan «al pie de la letra» lo que los hombres dicen, creen o escriben. Ya sea el habla, la carta o libro de un inviduo, o un documento público tal como una constitución o un grupo de leyes o una plataforma política, los maquiavelicos lo tratan sólo como un hecho más dentro del ámplio grupo general de hechos sociales, e interpretan su sentido siempre en relación a estos otros hechos.
 
 En algunos casos, el examen cuidadoso revela que las palabras pueden ser aceptadas tal como estan, pero es más usual, como encontramos en De Monarchia, un divorcio entre significado formal y significado real, con las palabras distoricionando y disfrazando el comportamiento poítico real que indirectamente expresan.
 

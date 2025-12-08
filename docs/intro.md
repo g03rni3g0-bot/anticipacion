@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-#  Introdución
+#  Introducción
 
 >«Hay un tema de la ciencia ficción contemporánea que siempre me ha fascinado. En las primeras novelas de [Gerald Klein](https://en.wikipedia.org/wiki/G%C3%A9rard_Klein) especialmente, ese tema es recurrente.
 Helo aquí: en los confines del futuro y del tiempo, a orillas de la playa, entre
@@ -62,7 +62,18 @@ futuros posibles, civilizaciones se hacen o se deshacen, seres nacen y mueren...
 <hr />
 
 
-Un ejemplo claro de predición al menos parcialmente exitosa en temas sociales es <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> *(<a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n3/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Revolution</a>, <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a>)* que es de 1941 pero recién ahora sus predicciones se empiezan a apreciar en toda su dimensión, de hecho fue la obra teórica que inspiro <a href="https://es.wikipedia.org/wiki/1984_(novela)" target="_blank" rel="noopener noreferrer">1984</a>, la ficción de <a href="https://es.wikipedia.org/wiki/George_Orwell" target="_blank" rel="noopener noreferrer">George Orwell</a> quien, antes de su obra más conocida, escribio el ensayo *[James Burnham and the Managerial Revolution](https://en.wikipedia.org/wiki/Second_Thoughts_on_James_Burnham)* (1947).
+Un ejemplo claro de predición al menos parcialmente exitosa en temas sociales es <em><a href="/textosI/category/la-revolución-gerencial-1941--james-burnham" class="lnk">La Revolución Gerencial</a></em> *(<a href="https://archive.org/details/in.ernet.dli.2015.17923/page/n3/mode/2up" target="_blank" rel="noopener noreferrer">The Managerial Revolution</a>*, <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a>) que es de 1941 pero cuyas concluciones, a su vez fuertemente influenciadas por *<a href="https://ia801603.us.archive.org/5/items/in.ernet.dli.2015.216028/2015.216028.The-Modern.pdf" target="_blank" rel="noopener noreferrer">The Modern Corporation and Private Property</a>* (1932) de <a href="https://es.wikipedia.org/wiki/Adolf_Berle" target="_blank" rel="noopener noreferrer">Berle</a> <a href="https://en.wikipedia.org/wiki/Gardiner_Means" target="_blank" rel="noopener noreferrer">Means</a> y también por *[La Burocratización Del Mundo](https://archive.org/details/burocratizacion-mundo)* (1939) de [Bruno Rizzi](https://es.wikipedia.org/wiki/Bruno_Rizzi), han sorteado bien la prueba decisiva del paso del tiempo.
+
+
+La polémica generada por su uso de [silogismos](https://es.wikipedia.org/wiki/Silogismo) en lugar de "dialecticas" inspiro la respuesta de su viejo correligionario y amigo León Trotsky: *[Carta abierta al camarada Burnham](https://www.marxists.org/espanol/trotsky/1940s/edm4.htm)*
+
+
+
+
+
+También fue la obra teórica que inspiro <a href="https://es.wikipedia.org/wiki/1984_(novela)" target="_blank" rel="noopener noreferrer">1984</a>, la ficción de <a href="https://es.wikipedia.org/wiki/George_Orwell" target="_blank" rel="noopener noreferrer">George Orwell</a> quien, antes de esa, su obra más conocida, escribio el ensayo *[James Burnham and the Managerial Revolution](https://en.wikipedia.org/wiki/Second_Thoughts_on_James_Burnham)* (1947).
+
+
 
 
 Una muestra de las capacidades predictivas de <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a> la podemos ver en el encabezado de la sección *<span class="lnk">[¿El Fin de la "Circulación de las Elites"?](/category/taylorismo-progresismo-e-ingeniería-social#el-fin-de-la-circulación-de-las-elites)</span>* donde podemos apreciar el extraordinario parecido de un cita suya de 1941 con una de [Ben Bernanke](https://es.wikipedia.org/wiki/Ben_Bernanke) en 2010, casi 70 años más tarde.
@@ -88,7 +99,7 @@ Este mismo fenomeno es una expresión más de una de las *constantes* más conoc
 La premisa *"Toda Teorización Social es Ingenieria Social"* no es mas que una expresión más de <em><a href="/textosI/maquiavelistas/maq10" class="lnk">La Ley de Hierro de la Oligarquia</a></em>, uno más entre los varios métodos de cooptación de los que esta se vale, y deja en evidencia los <a href="/textosI/category/historia-secreta-de-la-educación-2003-jt-gatto" class="lnk">mitos de la educación</a>.
 
 
-Este nuevo tipo de cooptación desde la Elite se disfrazó bajo bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy) dado que a los nuevo e ineditos indices de productividad descriptos en el capítulo *<a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a>* les permitio financiar novedosa fundaciones como la Rockefeller etc, etc, sobre ese tema profundizaremos en la seccion *<span class="lnk">[¿El Fin de la "Circulación de las Elites"?](/category/taylorismo-progresismo-e-ingeniería-social#el-fin-de-la-circulación-de-las-elites)</span>* del capítulo citado, pero ahora concentremosnos en un detalle relevante a esta sección sobre la escuela a la que pertenece Gaetano Mosca:
+Este nuevo tipo de cooptación desde la Elite se disfrazó bajo bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy) dado que a los nuevo e ineditos indices de productividad descriptos en el capítulo *<a href="/category/taylorismo-progresismo-e-ingeniería-social" class="lnk">Taylorismo, Progresismo e Ingeniería Social</a>* les permitio financiar novedosa fundaciones como la Rockefeller etc, etc, sobre ese tema profundizaremos en la seccion *<span class="lnk">[Progresismo y Reduccionismo](/category/taylorismo-progresismo-e-ingeniería-social#progresismo-y-reduccionismo)</span>* del capítulo citado, pero ahora concentremosnos en un detalle relevante a esta sección sobre la escuela a la que pertenece Gaetano Mosca:
 
 
 Al comienzo de esta introducción hablé de construir *"un marco que intentara conciliar algunos conceptos básicos de las ciencias fácticas con algunas nociones fundamentales de la teorización social"* a lo cual me parece un excelente punto de partida la conocida como Escuela Pólitica Científica con <a href="https://es.wikipedia.org/wiki/Gaetano_Mosca" target="_blank" rel="noopener noreferrer">Gaetano Mosca</a>, <a href="https://es.wikipedia.org/wiki/Vilfredo_Pareto" target="_blank" rel="noopener noreferrer">Vilfredo Pareto</a>, <a href="https://es.wikipedia.org/wiki/Georges_Sorel" target="_blank" rel="noopener noreferrer">Georges Sorel</a> y <a href="https://es.wikipedia.org/wiki/Robert_Michels" target="_blank" rel="noopener noreferrer">Robert Michels</a> como principales exponentes, billantemente reseñados por <a href="https://es.wikipedia.org/wiki/James_Burnham" target="_blank" rel="noopener noreferrer">James Burnham</a>  en *<a href="https://archive.org/details/in.ernet.dli.2015.247666" target="_blank" rel="noopener noreferrer">The Machiavellians</a> (1943)* traducida parcialmente en la sección <a href="/textosI" class="lnk">Textos I</a> como *<span class="lnk">[Los Maquiavelistas](/textosI/category/los-maquiavelistas-1943--james-burnham)</span>*.
@@ -100,6 +111,9 @@ Burnham publicó *Los Maquiavelistas* 2 años despues de *<a href="/textosI/cate
 
 
 Pese a que las obras mayores de estos pensadores se escribieron hace más de 100 años (y el libro de Burnham hace más de 80 años) esta tradición tiene aún mucho que ofrecer y este es un buen momento para una actualización.
+
+
+## Una Actualización Necesaria
 
 
 
