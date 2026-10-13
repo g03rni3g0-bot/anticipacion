@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Cientificismo e Ingenieria Social', // Usually your GitHub org/user name.
-  projectName: 'Cientificismo e Ingenieria Social', // Usually your repo name.
+  organizationName: 'Anticipación e Ingenieria Social', // Usually your GitHub org/user name.
+  projectName: 'Anticipación e Ingenieria Social', // Usually your repo name.
 
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
@@ -125,7 +125,7 @@ const config = {
       // Replace with your project's social card
       image: '/img/bookshelf.jpg',
       navbar: {
-        title: 'Cientificismo e Ingenieria Social',
+        title: 'Anticipación e Ingenieria Social',
 
         items: [
           {

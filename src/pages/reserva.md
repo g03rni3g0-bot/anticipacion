@@ -158,3 +158,62 @@ futuros posibles, civilizaciones se hacen o se deshacen, seres nacen y mueren...
 >[Benjamin Coriat](https://www.sigloxxieditores.com/autor/benjamin-coriat/), [El Taller y el Robot](https://books.google.com.gi/books?id=nVcKcYuOzt8C&printsec=frontcover&hl=es#v=onepage&q&f=false) (1987)
 
 
+
+blab bla bla bla  <span class="lnk">[La Irreversibilidad De La Racionalización y El Mito Del Neo-Liberalismo](#la-irreversibilidad-de-la-racionalización-y-el-mito-del-neo-liberalismo)</span>
+
+
+
+
+
+
+
+
+>[Samuel T. Francis](https://americasfuture.org/the-castaway), Nota 180 de de [Leviathan and its enemies](https://archive.org/details/LeviathanAndItsEnemiesSamuelT.Francis2016) (1995) <br />
+>Capítulo <span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span>
+
+
+
+
+
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La forma más sistematica e institucionalizada de este tipo de cooptación también esta muy ligada al boom de productividad que se dio a principios del siglo XX en torno al <a href="https://es.wikipedia.org/wiki/Taylorismo" target="_blank" rel="noopener noreferrer">Taylorismo</a>, <a href="https://es.wikipedia.org/wiki/Fordismo" target="_blank" rel="noopener noreferrer">Fordismo</a>, <a href="https://en.wikipedia.org/wiki/Time_and_motion_study" target="_blank" rel="noopener noreferrer">Time and Motion Study</a>, etc:
+
+
+
+Los origenes de la [Ingeniería Social](https://es.wikipedia.org/wiki/Ingenier%C3%ADa_social_(ciencia_pol%C3%ADtica)) moderna también se encuentran a comienzos del proceso de expansión industrial y acumulación de capital basado en la [división del trabajo](https://es.wikipedia.org/wiki/Divisi%C3%B3n_del_trabajo) que comenzo a comienzos del siglo XX, cuando los insaciables pulpos económicos colectivamente conocidos como [The Robber Barons](https://es.wikipedia.org/wiki/Barones_ladrones), acosados por la opinion pública y las leyes antimonopolicas, decidieron reinvertir parte de las fabulosas ganacias generadas por las <span class="lnk">[nuevas normas de producción](/textosI/t&c/t&c4#nuevas-normas-de-producción)</span> en blanquear su imagen y sus activos bajo el pomposo nombre de [filantropía](https://en.wikipedia.org/wiki/Philanthropy#Differences_between_traditional_and_new_philanthropy).
+
+
+
+Mientras que muchos supondran, acertadamente, que <em><a href="/textosI/maquiavelistas/maq10" class="lnk">La Ley de Hierro de la Oligarquia</a></em> es un proceso cíclico que ha ocurrido muchas veces antes en la historia de la humanidad, la modalidad de cooptación actual, basado en las técnicas de producción modernas, inevitablemente esta destinada a generar cambios mucho más permanentes, dado que ella genera una "inversión de valores" que nunca se había dado en la escala actual.
+
+
+
+RELACION CON EL INCIPIENTE REFORMISMO
+
+

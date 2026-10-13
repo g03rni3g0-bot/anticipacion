@@ -45,7 +45,7 @@ Se puede argumentar que estas tendencias son inevitables en cualquier sociedad d
 
 La importancia del progresismo y de otras ideologías gerenciales
 no radica en su relación causal con estas tendencias, sino en su apoyo y aceptación de las mismas, en
-los esfuerzos por encontrar racionalizaciones para ellas y los intereses de aquellos grupos sociales que obtienen poder y poder y recompensas sociales, en el estímulo constante que el progresismo ofrece a estas tendencias y en su desaliento y oposición igualmente constantes a cualquier tendencia o movimiento que se aleje de ellas.
+los esfuerzos por encontrar racionalizaciones para ellas y los intereses de aquellos grupos sociales que obtienen poder y recompensas sociales, en el estímulo constante que el progresismo ofrece a estas tendencias y en su desaliento y oposición igualmente constantes a cualquier tendencia o movimiento que se aleje de ellas.
 
 
 El progresismo no se originó, por supuesto, con los grupos e intereses empresariales del siglo XX, sino que se desarrolló como un cuerpo formal de pensamiento en la <span class="lnk">[Ilustración](/textosII/ilustracion)</span> del siglo XVIII como liberalismo (nombre con el que aún se conoce al progresismo en los EEUU). 
