@@ -6,7 +6,7 @@
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   
-  title: 'Cientificismo e Ingenieria Social',
+  title: 'Anticipación e Ingenieria Social',
   tagline: 'Inicio',
   favicon: '/img/bookshelf.jpg',
 
@@ -132,7 +132,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'right',
-            label: 'La Guía',
+            label: 'El eBook',
           },
 
           {to: '/textosI', label: 'Textos I', position: 'right'},

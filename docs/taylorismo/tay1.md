@@ -249,7 +249,7 @@ La falla anticipación de este hecho por la derecha y sus poco realistas esperan
 <p class="md_footnote_size">* que caerian en la categoría de <span class="lnk">[conducta no-lógica](/textosI/maquiavelistas/maq7)</span> de Pareto</p>
 
 
-Y es que la persistencia de este modelo no sólo da una base material sobre la cual apoyarse al colectivismo de izquierda, sino también argumental: La premisa de izquierda de que la labor del obrero raso es tanto o más importante que la labor intelectual no podría mantenerse si no existiera un sistema corporativo que a expropiado la labor intelectual que una vez fue de los artesanos, en favor del obrero común cuyo mayor merito es remplazar potenciales disidencias y contentarse con el consumo en un mercado deliveradamente keynesiano, que ha evolucionado hacia lo que hoy conocemos como los "[Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)" y las "guarderias para adultos".
+Y es que la persistencia de este modelo no sólo da una base material sobre la cual apoyarse al colectivismo de izquierda, sino también argumental: La premisa de izquierda de que la labor del obrero raso es tanto o más importante que la labor intelectual, no podría mantenerse si no existiera un sistema corporativo que a expropiado la labor intelectual que una vez fue de los artesanos, en favor del obrero común cuyo mayor merito es remplazar potenciales disidencias y contentarse con el consumo en un mercado deliveradamente keynesiano, que ha evolucionado hacia lo que hoy conocemos como los "[Bullshit Jobs](https://en.wikipedia.org/wiki/Bullshit_Jobs)" y las "guarderias para adultos".
 
 
 Por otro lado los resultados en terminos de mejoramiento de la condiciones de vida de grupos anteriormente desfavorecido, sirven de apoyo (por más de que sea de una forma artificial y sesgada) a la idea del [meliorismo](https://es.wikipedia.org/wiki/Meliorismo), es decir que el nivel de desarrollo moral e intelectual del individuo depende de sus condiciones de vida.
@@ -261,22 +261,11 @@ Sin embargo la forma en que la imposición de las ideas [melioristas](https://es
 >*"el poder de cualquier minoría es irresistible frente a cada individuo aislado de la mayoría que se encuentra sólo frente a la totalidad de la minoría organizada. Al mismo tiempo, la minoría se organiza por el mismo motivo de que es una minoría. Cien hombres actuando concertada y uniformemente, con un entendimiento común, triunfarán frente a un millar de hombres que no estan de acuerdo y de los cuales se pueden ocupar uno por uno."* 
 
 
-La forma en que los modernos métodos de producción pueden tanto facilitar como degradar las condiciones de empleo y por ende de vida de los individuos de acuerdo esten a favor o en contra de las ideologias gerenciales sirven como soporte de las práctica corporativas que las caracterizan.
+La forma en que los modernos métodos de producción pueden tanto facilitar como degradar las condiciones de empleo y por ende de vida de los individuos de acuerdo esten a favor o en contra de las ideologias gerenciales sirven como soporte de las práctica corporativas que las caracterizan y que llegarón a su máxima expresión en las prácticas de la temible [Stasi](https://es.wikipedia.org/wiki/Stasi) (policía secreta de la extinta Alemania Oriental) puntualmente en el <span class="lnk">[Zersetzung](/textosII/acosorg)</span> que literalmente signifca "desconposición psicológica" la cual se lograba con un *"gaslight"* brutal a base de la degradación de las condiciones de vida y la reputación del perseguido.
 
 
+Si bien la mayoria de las ideologías gerenciales no llegan a dicho extremo, hay una clara relación entre la ideología [melioristas](https://es.wikipedia.org/wiki/Meliorismo) (*"la gente menos capaz es victima de sus condiciones de vida"*) y la práctica corporacionista (*"al que no este de acuerdo le degradaremos su condiciones de vida entre todos"*). Un claro ejemplo es el [Peronismo](https://es.wikipedia.org/wiki/Peronismo).
 
-
-
-
-El mecanismo del taylorismo como un "sistema de remplazo" es el hecho puntual que más ha influenciado la paradoja que Samuel T. Francis llama <span class="lnk">[Progresismo como Ideologia de la Elite Gerencial](/textosII/progresismo)</span> y es bueno recordarlo aquí porque 
-
-
-
-
-
-
-<br />
-<br />
 
 
 ## ¿Artesanos o Obreros?: Un Error Persistente
