@@ -300,43 +300,19 @@ El «salvaje» sabe infinitamente más de las condiciones económicas y sociales
 >[Max Weber](https://es.wikipedia.org/wiki/max_weber), Ensayos Sobre La Teoría De La Ciencia
 
 <br />
+<br />
 
 
->"Aca va la historia de Socreate y lasabas"
+>Aristipo: "Si hubieras aprendido a tratar el tirano Dionisio de Siracusa, no estarías comiendo lentejas todos los días."
 
->[Historia Tradicional](https://es.wikipedia.org/wiki/max_weber), Ensayos Sobre La Teoría De La Ciencia
+>Diógenes: "Y si hubieras aprendido a prepararte lentejas, no tendrías que adular a Dionisio de Siracusa todos los días."
+
+>[Diógenes Laercio](https://es.wikipedia.org/wiki/Di%C3%B3genes_Laercio), [Vidas, opiniones y sentencias de los filósofos más ilustres](https://es.wikipedia.org/wiki/Vidas,_opiniones_y_sentencias_de_los_fil%C3%B3sofos_m%C3%A1s_ilustres)
 
 
 <hr />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## La Irreversibilidad De La Racionalización y El Mito Del Neo-Liberalismo
 
 
 
