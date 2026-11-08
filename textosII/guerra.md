@@ -1,5 +1,5 @@
 ---
-date: 2023-12-31T10:00
+date: 2023-12-29T10:00
 title: ¿En que consiste la Guerra?
 slug: guerra
 ---

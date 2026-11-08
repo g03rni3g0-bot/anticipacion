@@ -124,7 +124,7 @@ cazadores y pastores prehistóricos, queda configurado el nómada intelectual. L
 Sólo como totalidad tiene el sentido de casa humana. Sus casas son meros átomos que la componen"
 
 Reflexiones muy análogas se exponían a principios de siglo en el folleto de Werner
-Sombart *[¿Por qué no hay socialismo en América?](https://www.jstor.org/stable/40183872)* (1906).   
+Sombart *[¿Por qué no hay socialismo en América?](https://api.pageplace.de/preview/DT0400.9781315496887_A38262273/preview-9781315496887_A38262273.pdf)* <span class="pdf">[PDF]</span>* (1906).   
 
 
 Hay que subrayar especialmente esa idea de que el tardío

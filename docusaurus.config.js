@@ -11,7 +11,7 @@ const config = {
   favicon: '/img/bookshelf.jpg',
 
   // Set the production url of your site here
-  url: 'https://xxx.netlify.app',
+  url: 'https://anticipacion.web.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -136,29 +136,20 @@ const config = {
           },
 
           {to: '/textosI', label: 'Textos I', position: 'right'},
-          {to: '/textosII/guerra', label: 'Textos II', position: 'right'},
+          {to: '/textosII', label: 'Textos II', position: 'right'},
 
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-
- 
-          {
-
-            items: [
-
-              {
-                html: `
-
-                `,
-              },
-            ],
-          },          
-        ],
-        
+    footer: {
+      logo: {
+        alt: 'Creative Commons',
+        src: 'https://licensebuttons.net/l/by-nc/3.0/88x31.png',
+        href: 'http://creativecommons.org/licenses/by-nc/3.0/',
+        width: 110,
+        height: 43,
       },
+      copyright: `Copyright © ${new Date().getFullYear()} ${'<br />'} Este sitio web contiene materiales protegidos por derechos de autor utilizados estrictamente con fines educativos`,
+    },
 
     }),
 };

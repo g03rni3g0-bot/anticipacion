@@ -110,7 +110,7 @@ expresada en el pensamiento progresista se basa en un environmentalismo que a su
 
 
 El reformador social de finales del siglo XIX Henry George, cuya obra
-*[Progress And Poverty](https://archive.org/details/in.ernet.dli.2015.218142) (1879)* contribuyó a popularizar las «[environmentalist theories](https://law.adelaide.edu.au/our-research/legal-theory-legal-history-and-critical-perspectives-on-law/environmental-theory)» en Estados Unidos,
+*[Progress And Poverty](https://archive.org/details/in.ernet.dli.2015.218142) (1879)* contribuyó a popularizar las «[environmentalist theories](https://es.wikipedia.org/wiki/Meliorismo)» en Estados Unidos,
 aplicó la teoría específicamente a las diferencias entre los judíos y otros grupos de seres humanos. Como escribe Eric F. Goldman describiendo el punto de vista de George.
 
 
@@ -136,13 +136,13 @@ El nuevo liberalismo de finales del siglo XIX y principios del XX también apoyo
 
 >«también tuvo un impacto dominante en los métodos y objetivos del progresismo».
 
-Cita Progressivism (1983)//
+[Progressivism](https://archive.org/details/progressivism0000link) (1983)
 
 Muchos de los principales reformistas eran especialistas en las nuevas disciplinas de la estadística, la economía, la sociología y la psicología. Estos nuevos científicos sociales se propusieron recopilar datos sobre el comportamiento humano tal y como era en realidad y descubrir las leyes que rigen el comportamiento humano. 
 
 
 
-Dado que los científicos sociales aceptaban implícitamente los postulados del «[environmentalism](https://law.adelaide.edu.au/our-research/legal-theory-legal-history-and-critical-perspectives-on-law/environmental-theory)» e intervencionismo, creían que el conocimiento de las leyes
+Dado que los científicos sociales aceptaban implícitamente los postulados del «[environmentalism](https://es.wikipedia.org/wiki/Meliorismo)» e intervencionismo, creían que el conocimiento de las leyes
 naturales permitiría idear y aplicar soluciones para mejorar la condición humana. Esta fe subyacia a los métodos utilizados por casi todos los reformadores de la época: la investigación de los hechos y la aplicación de los conocimientos de las ciencias sociales a su análisis, confiandole a expertos entrenados decidir que hacer y, por último, encomendandole al gobierno la ejecución de la reforma.
 
 
@@ -161,7 +161,7 @@ de una sociedad utópica, pero en general la situaban tan lejos en el futuro o c
 
 La nueva ciencia, influida por la teoría de la probabilidad, los cuestionamientos a la cosmología newtoniana, un *«darwinismo reformista»* y una psicología irracionalista, rechazó la naturaleza determinada del universo y elaboró una visión de la naturaleza que permitía una reconstrucción humana mucho más inmediata de la sociedad, del hombre y de la naturaleza. 
 
-[Walter Lippmann](https://es.wikipedia.org/wiki/Walter_Lippmann), exponente popularizador de esta nueva visión del mundo, destacó el papel de la ciencia moderna en la reforma del entorno social en su libro de 1914 [Drift and Mastery](https://archive.org/details/driftmasteryatte00lipp), y esta creencia se convirtió en un supuesto básico del progresismo.
+[Walter Lippmann](https://es.wikipedia.org/wiki/Walter_Lippmann), exponente popularizador de esta nueva visión del mundo, destacó el papel de la ciencia moderna en la reforma del entorno social en su libro de 1914 *[Drift and Mastery](https://archive.org/details/driftmasteryatte00lipp)*, y esta creencia se convirtió en un supuesto básico del progresismo.
 La creencia en un universo abierto, en el que el hombre no estaba encadenado al pasado ni viajaba en una escalera mecánica hacia el futuro, era fundamental. También era fundamental la creencia en la
 doctrina del progreso posible, basada en el doble supuesto de que el hombre era más bueno que malo
 y que, gracias a su intelecto y sentido moral, tenía el poder de cambiar su entorno.
@@ -176,8 +176,8 @@ en las críticas liberales a la discriminación racial, sexual y de clase, y en 
 
 
 
-[Roscoe Pound](https://en.wikipedia.org/wiki/Roscoe_Pound) y [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) incorporaron las «[environmentalist theories](https://law.adelaide.edu.au/our-research/legal-theory-legal-history-and-critical-perspectives-on-law/environmental-theory)» a su escuela
-de //«jurisprudencia sociológica» a principios del siglo XX, y el «environmentalismo» también influyó en el movimiento del Evangelio Social y en la secularización de la sociedad.
+[Roscoe Pound](https://en.wikipedia.org/wiki/Roscoe_Pound) y [Louis Brandeis](https://en.wikipedia.org/wiki/Louis_Brandeis) incorporaron las «[environmentalist theories](https://es.wikipedia.org/wiki/Meliorismo)» a su escuela
+de «jurisprudencia sociológica» a principios del siglo XX, y el «environmentalismo» también influyó en el movimiento del Evangelio Social y en la secularización de la sociedad.
 
 
 
